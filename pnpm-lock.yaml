@@ -11,6 +11,9 @@ importers:
       formik:
         specifier: ^2.4.6
         version: 2.4.6(@types/react@19.2.2)(react@19.1.0)
+      framer-motion:
+        specifier: ^12.23.24
+        version: 12.23.24(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       motion:
         specifier: ^12.23.24
         version: 12.23.24(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
